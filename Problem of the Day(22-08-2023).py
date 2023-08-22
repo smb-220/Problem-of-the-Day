@@ -1,3 +1,4 @@
+#Make Matrix Beautiful
 class Solution:
     def findMinOpeartion(self, matrix, n):
         sumRow = [0] * n

@@ -1,4 +1,4 @@
-#Remove duplicate elements from sorted Linked List
+#Remove duplicate element from sorted Linked List
 def removeDuplicates(head):
     curr_node=head
     while curr_node.next:

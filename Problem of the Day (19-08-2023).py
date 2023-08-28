@@ -1,4 +1,4 @@
-#Subarray with given sum
+#Subarray with the given sum
 class Solution:
     def subArraySum(self,arr, n, sum_): 
         A = []
